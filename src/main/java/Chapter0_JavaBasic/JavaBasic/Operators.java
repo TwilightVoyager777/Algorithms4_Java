@@ -1,4 +1,4 @@
-package Chapter0_JavaBasic;
+package Chapter0_JavaBasic.JavaBasic;
 
 public class Operators {
     public static void main(String[] args) {

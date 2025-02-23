@@ -1,4 +1,4 @@
-package Chapter0_JavaBasic;
+package Chapter0_JavaBasic.JavaBasic;
 
 public class GrammarFundamentals {
     public static void main(String[] args) {
