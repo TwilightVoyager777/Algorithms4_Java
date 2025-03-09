@@ -1,8 +1,8 @@
-package Chapter0_JavaBasic.IOFlowFundamentals;
+package chapter0.javabasic.ExceptionHandling;
 
 import java.io.*;
 
-public class FileIO {
+public class FileIODemo {
     public static void main(String[] args) {
         try {
             //写文件
