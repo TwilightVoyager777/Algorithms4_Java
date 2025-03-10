@@ -1,3 +1,11 @@
+### 代码运行步骤
+
+#### 编译
+javac -cp lib/algs4.jar -d out src/main/java/chapter1/fundamentals/BinarySearch.java
+#### 运行
+java -cp lib/algs4.jar:out chapter1.fundamentals.BinarySearch src/main/resources/algs4-data/tinyW.txt < src/main/resources/algs4-data/tinyT.txt
+
+
 ### 每天提交并推送代码的步骤：
 
 #### 1. **检查项目的当前状态**
