@@ -1,4 +1,4 @@
-package chapter1.fundamentals.review320;
+package chapter1.fundamentals.review323;
 
 import java.util.NoSuchElementException;
 
@@ -8,7 +8,7 @@ public class Queue<Item> {
     private Node last;
     private int size;
 
-    public class Node{
+    public class Node {
         Item item;
         Node next;
     }
@@ -24,7 +24,7 @@ public class Queue<Item> {
         last = new Node();
         last.item = item;
         last.next = null;
-        if (isEmpty()) {
+        if(isEmpty()){
             first = last;
         } else {
             oldLast.next = last;
@@ -34,11 +34,11 @@ public class Queue<Item> {
 
     public Item dequeue() {
         if(isEmpty()) {
-            throw new NoSuchElementException("1");
+            throw new NoSuchElementException("11");
         }
         Item item = first.item;
         first = first.next;
-        if(isEmpty()) {
+        if(isEmpty()){
             last = null;
         }
         size--;
