@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreePreorderTraversal.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/BinaryTreePreorderTraversal.md" />
+              <option name="frontendQuestionId" value="leetcode.com144" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreePreorderTraversal.java" />
+              <option name="titleSlug" value="binary-tree-preorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ContainsDuplicate.java">
           <value>
             <LeetcodeEditor>
@@ -22,6 +33,28 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ContainsDuplicate.java" />
               <option name="titleSlug" value="contains-duplicate" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DiameterOfBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/DiameterOfBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com543" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DiameterOfBinaryTree.java" />
+              <option name="titleSlug" value="diameter-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindAllAnagramsInAString.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/FindAllAnagramsInAString.md" />
+              <option name="frontendQuestionId" value="leetcode.com438" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindAllAnagramsInAString.java" />
+              <option name="titleSlug" value="find-all-anagrams-in-a-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -66,6 +99,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LongestSubstringWithoutRepeatingCharacters.java" />
               <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MaximumDepthOfBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/MaximumDepthOfBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com104" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MaximumDepthOfBinaryTree.java" />
+              <option name="titleSlug" value="maximum-depth-of-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
