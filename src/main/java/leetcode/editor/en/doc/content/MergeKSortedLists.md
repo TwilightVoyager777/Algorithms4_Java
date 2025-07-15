@@ -62,7 +62,7 @@ merging them into one sorted list:
 
 ## 基本思路
 
-[✨21. 合并两个有序链表](/problems/merge-two-sorted-lists/) 的延伸，利用 [优先级队列（二叉堆）](https://labuladong.online/algo/data-structure-basic/binary-heap-basic/) 进行节点排序即可。
+[✔ ✨21. 合并两个有序链表](/problems/merge-two-sorted-lists/) 的延伸，利用 [优先级队列（二叉堆）](https://labuladong.online/algo/data-structure-basic/binary-heap-basic/) 进行节点排序即可。
 
 **详细题解**：
   - [分治算法解题套路框架](https://labuladong.online/algo/essential-technique/divide-and-conquer/)
@@ -401,11 +401,13 @@ function mergeTwoLists(l1, l2) {
 </div></div>
 </div></div>
 
-<hr /><details open hint-container details><summary style="font-size: medium"><strong>👾👾 算法可视化 👾👾</strong></summary><div id="data_merge-k-sorted-lists"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
+<hr /><details open hint-container details><summary style="font-size: medium"><strong>🥳🥳 算法可视化 🥳🥳</strong></summary><div id="data_merge-k-sorted-lists"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
 <div id="iframe_merge-k-sorted-lists"></div></div>
 </details><hr /><br />
 
 </div>
 </details>
 </div>
+
+
 
