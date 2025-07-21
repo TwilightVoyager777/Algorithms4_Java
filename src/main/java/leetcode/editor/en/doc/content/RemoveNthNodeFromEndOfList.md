@@ -287,11 +287,13 @@ function findFromEnd(head, k) {
 </div></div>
 </div></div>
 
-<hr /><details open hint-container details><summary style="font-size: medium"><strong>🌟🌟 算法可视化 🌟🌟</strong></summary><div id="data_remove-nth-node-from-end-of-list"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
+<hr /><details open hint-container details><summary style="font-size: medium"><strong>🌈🌈 算法可视化 🌈🌈</strong></summary><div id="data_remove-nth-node-from-end-of-list"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
 <div id="iframe_remove-nth-node-from-end-of-list"></div></div>
 </details><hr /><br />
 
 </div>
 </details>
 </div>
+
+
 

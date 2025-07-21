@@ -44,7 +44,7 @@
 
 ## 基本思路
 
-这道题很像 [✨21. 合并两个有序链表](/problems/merge-two-sorted-lists/)，21 题让你合二为一，这里需要分解让你把原链表一分为二。
+这道题很像 [✔ ✨21. 合并两个有序链表](/problems/merge-two-sorted-lists/)，21 题让你合二为一，这里需要分解让你把原链表一分为二。
 
 具体来说，我们可以把原链表分成两个小链表，一个链表中的元素大小都小于 `x`，另一个链表中的元素都大于等于 `x`，最后再把这两条链表接到一起，就得到了题目想要的结果。细节看代码吧，注意虚拟头结点的运用。
 
@@ -268,7 +268,7 @@ var partition = function(head, x) {
 
 肯定有读者对「断开原链表中的每个节点的 `next` 指针」这部分代码有疑问，借助我们的可视化面板就很容易看明白了，首先看下正确的写法：
 
-<hr /><details open hint-container details><summary style="font-size: medium"><strong>🎃🎃 算法可视化 🎃🎃</strong></summary><div id="data_partition-list"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
+<hr /><details open hint-container details><summary style="font-size: medium"><strong>🍭🍭 算法可视化 🍭🍭</strong></summary><div id="data_partition-list"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
 <div id="iframe_partition-list"></div></div>
 </details><hr /><br />
 
@@ -283,4 +283,6 @@ var partition = function(head, x) {
 </div>
 </details>
 </div>
+
+
 
