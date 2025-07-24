@@ -1,8 +1,8 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep.LinkedListReverseVariants;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep0724.LinkedListReverseVariants;
 
 import leetcode.editor.common.*;
 
-public class ReverseLinkedList {
+public class ReverseLinkedListIi {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     /**
@@ -16,31 +16,33 @@ public class ReverseLinkedList {
      * }
      */
     class Solution {
-        public ListNode reverseList(ListNode head) {
-            if (head == null || head.next == null) {
-                return head;
+        public ListNode reverseBetween(ListNode head, int left, int right) {
+            if (left == 1) {
+                return reverseN(head, right);
             }
-            ListNode last = reverseList(head.next);
-            head.next.next= head;
-            head.next = null;
-            return last;
+            ListNode pre = head;
+            for (int i = 1; i < left - 1; i++) {
+                pre = pre.next;
+            }
+            pre.next = reverseN(pre.next, right - left + 1);
+            return head;
         }
-    }
-    class Solution1 {
-        public ListNode reverseList(ListNode head) {
+        ListNode reverseN(ListNode head, int n) {
             if (head == null || head.next == null) {
                 return head;
             }
             ListNode pre, cur, nxt;
             pre = null; cur = head; nxt = head.next;
-            while (cur != null) {
+            while (n > 0) {
                 cur.next = pre;
                 pre = cur;
                 cur = nxt;
                 if (nxt != null) {
                     nxt = nxt.next;
                 }
+                n--;
             }
+            head.next = cur;
             return pre;
         }
     }
@@ -48,7 +50,7 @@ public class ReverseLinkedList {
 
     
     public static void main(String[] args) {
-        Solution solution = new ReverseLinkedList().new Solution();
+        Solution solution = new ReverseLinkedListIi().new Solution();
         // put your test code here
         
     }

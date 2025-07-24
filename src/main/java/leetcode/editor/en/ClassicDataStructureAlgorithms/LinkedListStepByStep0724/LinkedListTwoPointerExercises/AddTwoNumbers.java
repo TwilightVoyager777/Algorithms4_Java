@@ -1,9 +1,8 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep.LinkedListTwoPointerExercises;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep0724.LinkedListTwoPointerExercises;
 
-import java.util.*;
 import leetcode.editor.common.*;
 
-public class AddTwoNumbersIi {
+public class AddTwoNumbers {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     /**
@@ -18,31 +17,23 @@ public class AddTwoNumbersIi {
      */
     class Solution {
         public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-            Stack<Integer> stk1 = new Stack<>();
-            while (l1 != null) {
-                stk1.push(l1.val);
-                l1 = l1.next;
-            }
-            Stack<Integer> stk2 = new Stack<>();
-            while (l2 != null) {
-                stk2.push(l2.val);
-                l2 = l2.next;
-            }
             ListNode dummy = new ListNode(-1);
+            ListNode p1 = l1, p2 = l2, p = dummy;
             int carry = 0;
-            while (!stk1.isEmpty() || !stk2.isEmpty() || carry > 0) {
+            while (p1 != null || p2 != null || carry > 0) {
                 int val = carry;
-                if (!stk1.isEmpty()) {
-                    val += stk1.pop();
+                if (p1 != null) {
+                    val = val + p1.val;
+                    p1 = p1.next;
                 }
-                if (!stk2.isEmpty()) {
-                    val += stk2.pop();
+                if (p2 != null) {
+                    val = val + p2.val;
+                    p2 = p2.next;
                 }
                 carry = val / 10;
                 val = val % 10;
-                ListNode newNode = new ListNode(val);
-                newNode.next = dummy.next;
-                dummy.next = newNode;
+                p.next = new ListNode(val);
+                p = p.next;
             }
             return dummy.next;
         }
@@ -51,7 +42,7 @@ public class AddTwoNumbersIi {
 
     
     public static void main(String[] args) {
-        Solution solution = new AddTwoNumbersIi().new Solution();
+        Solution solution = new AddTwoNumbers().new Solution();
         // put your test code here
         
     }

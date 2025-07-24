@@ -1,8 +1,8 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep.LinkedListReverseVariants;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep0724.LinkedListReverseVariants;
 
 import leetcode.editor.common.*;
 
-public class ReverseLinkedListIi {
+public class ReverseNodesInKGroup {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     /**
@@ -16,16 +16,17 @@ public class ReverseLinkedListIi {
      * }
      */
     class Solution {
-        public ListNode reverseBetween(ListNode head, int left, int right) {
-            if (left == 1) {
-                return reverseN(head, right);
+        public ListNode reverseKGroup(ListNode head, int k) {
+            if (head == null) return null;
+            ListNode a,b;
+            a = b = head;
+            for (int i = 0; i < k; i++) {
+                if (b == null) return head;
+                b = b.next;
             }
-            ListNode pre = head;
-            for (int i = 1; i < left - 1; i++) {
-                pre = pre.next;
-            }
-            pre.next = reverseN(pre.next, right - left + 1);
-            return head;
+            ListNode newHead = reverseN(a, k);
+            a.next = reverseKGroup(b, k);
+            return newHead;
         }
         ListNode reverseN(ListNode head, int n) {
             if (head == null || head.next == null) {
@@ -50,7 +51,7 @@ public class ReverseLinkedListIi {
 
     
     public static void main(String[] args) {
-        Solution solution = new ReverseLinkedListIi().new Solution();
+        Solution solution = new ReverseNodesInKGroup().new Solution();
         // put your test code here
         
     }

@@ -1,4 +1,4 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep.TwoPointersLinkedList;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep0724.TwoPointersLinkedList;
 
 import leetcode.editor.common.*;
 
