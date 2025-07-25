@@ -40,7 +40,7 @@
 
 ## 基本思路
 
-可以直接复用 [✨27. 移除元素](/problems/remove-element/) 的解法，先移除所有 0，然后把最后的元素都置为 0，就相当于移动 0 的效果。
+可以直接复用 [✔ ✨27. 移除元素](/problems/remove-element/) 的解法，先移除所有 0，然后把最后的元素都置为 0，就相当于移动 0 的效果。
 
 **详细题解**：
   - [双指针技巧秒杀七道数组题目](https://labuladong.online/algo/essential-technique/array-two-pointers-summary/)
@@ -230,11 +230,13 @@ var moveZeroes = function(nums) {
 </div></div>
 </div></div>
 
-<hr /><details open hint-container details><summary style="font-size: medium"><strong>🍭🍭 算法可视化 🍭🍭</strong></summary><div id="data_move-zeroes"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
+<hr /><details open hint-container details><summary style="font-size: medium"><strong>🥳🥳 算法可视化 🥳🥳</strong></summary><div id="data_move-zeroes"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
 <div id="iframe_move-zeroes"></div></div>
 </details><hr /><br />
 
 </div>
 </details>
 </div>
+
+
 

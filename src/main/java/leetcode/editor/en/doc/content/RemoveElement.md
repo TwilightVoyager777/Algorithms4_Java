@@ -75,7 +75,7 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 
 ## 基本思路
 
-类似 [✨26. 删除有序数组中的重复项](/problems/remove-duplicates-from-sorted-array/)，需要使用 [双指针技巧](https://labuladong.online/algo/essential-technique/array-two-pointers-summary/) 中的快慢指针：
+类似 [✔ ✨26. 删除有序数组中的重复项](/problems/remove-duplicates-from-sorted-array/)，需要使用 [双指针技巧](https://labuladong.online/algo/essential-technique/array-two-pointers-summary/) 中的快慢指针：
 
 如果 `fast` 遇到需要去除的元素，则直接跳过，否则就告诉 `slow` 指针，并让 `slow` 前进一步。
 
@@ -210,11 +210,13 @@ var removeElement = function(nums, val) {
 </div></div>
 </div></div>
 
-<hr /><details open hint-container details><summary style="font-size: medium"><strong>🌈🌈 算法可视化 🌈🌈</strong></summary><div id="data_remove-element"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
+<hr /><details open hint-container details><summary style="font-size: medium"><strong>🍭🍭 算法可视化 🍭🍭</strong></summary><div id="data_remove-element"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
 <div id="iframe_remove-element"></div></div>
 </details><hr /><br />
 
 </div>
 </details>
 </div>
+
+
 
