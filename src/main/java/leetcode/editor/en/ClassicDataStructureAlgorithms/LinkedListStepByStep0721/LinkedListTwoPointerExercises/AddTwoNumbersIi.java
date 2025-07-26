@@ -1,4 +1,4 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep0724.LinkedListTwoPointerExercises;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep0721.LinkedListTwoPointerExercises;
 
 import java.util.*;
 import leetcode.editor.common.*;

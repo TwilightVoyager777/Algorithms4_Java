@@ -1,4 +1,4 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep0724.PalindromeLinkedListCheck;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep0721.PalindromeLinkedListCheck;
 
 import leetcode.editor.common.*;
 
