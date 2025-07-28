@@ -33,7 +33,7 @@
 
 <details><summary><strong>Related Topics</strong></summary>Array | Two Pointers | Sorting</details><br>
 
-<div>👍 20247, 👎 720<span style='float: right;'><span style='color: gray;'><a href='https://github.com/labuladong/fucking-algorithm/issues' target='_blank' style='color: lightgray;text-decoration: underline;'>bug 反馈</a> | <a href='https://labuladong.online/algo/fname.html?fname=jb插件简介' target='_blank' style='color: lightgray;text-decoration: underline;'>使用指南</a> | <a href='https://labuladong.online/algo/' target='_blank' style='color: lightgray;text-decoration: underline;'>更多配套插件</a></span></span></div>
+<div>👍 20403, 👎 725<span style='float: right;'><span style='color: gray;'><a href='https://github.com/labuladong/fucking-algorithm/issues' target='_blank' style='color: lightgray;text-decoration: underline;'>bug 反馈</a> | <a href='https://labuladong.online/algo/fname.html?fname=jb插件简介' target='_blank' style='color: lightgray;text-decoration: underline;'>使用指南</a> | <a href='https://labuladong.online/algo/' target='_blank' style='color: lightgray;text-decoration: underline;'>更多配套插件</a></span></span></div>
 
 <div id="labuladong"><hr>
 
@@ -48,7 +48,7 @@
 
 这题有意思，如果仅仅是写一个正确的解法，可以有很多种方法，比如经典的 [计数排序](https://labuladong.online/algo/data-structure-basic/counting-sort/)。但是如果要求只遍历数组一次，那么就有些技巧性了。
 
-我们在 [数组双指针技巧汇总](https://labuladong.online/algo/essential-technique/array-two-pointers-summary/) 中其实讲过类似的题目，就是 [✨27. 移除元素](/problems/remove-element/) 和 [✨283. 移动零](/problems/move-zeroes/)。
+我们在 [数组双指针技巧汇总](https://labuladong.online/algo/essential-technique/array-two-pointers-summary/) 中其实讲过类似的题目，就是 [✔ ✨27. 移除元素](/problems/remove-element/) 和 [✔ ✨283. 移动零](/problems/move-zeroes/)。
 
 只不过前面那两道题只是把数组的元素分为两部分：一部分是符合要求的，另一部分是不符合要求的。这种场景可以用快慢指针来解决：
 

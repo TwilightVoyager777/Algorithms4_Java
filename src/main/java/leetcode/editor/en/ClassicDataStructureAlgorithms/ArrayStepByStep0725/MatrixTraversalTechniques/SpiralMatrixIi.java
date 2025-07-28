@@ -1,4 +1,4 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.ArrayStepByStep.MatrixTraversalTechniques;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.ArrayStepByStep0725.MatrixTraversalTechniques;
 
 public class SpiralMatrixIi {
 

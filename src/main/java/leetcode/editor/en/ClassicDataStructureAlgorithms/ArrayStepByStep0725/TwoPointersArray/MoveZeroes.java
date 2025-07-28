@@ -1,4 +1,4 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.ArrayStepByStep.TwoPointersArray;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.ArrayStepByStep0725.TwoPointersArray;
 
 public class MoveZeroes {
 
