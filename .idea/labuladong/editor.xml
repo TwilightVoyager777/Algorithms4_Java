@@ -47,6 +47,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/CarPooling.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/CarPooling.md" />
+              <option name="frontendQuestionId" value="leetcode.com1094" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/CarPooling.java" />
+              <option name="titleSlug" value="car-pooling" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/CoinChange.java">
           <value>
             <LeetcodeEditor>
@@ -110,6 +121,28 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ContiguousArray.java" />
               <option name="titleSlug" value="contiguous-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ContinuousSubarraySum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/ContinuousSubarraySum.md" />
+              <option name="frontendQuestionId" value="leetcode.com523" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ContinuousSubarraySum.java" />
+              <option name="titleSlug" value="continuous-subarray-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/CorporateFlightBookings.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/CorporateFlightBookings.md" />
+              <option name="frontendQuestionId" value="leetcode.com1109" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/CorporateFlightBookings.java" />
+              <option name="titleSlug" value="corporate-flight-bookings" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -264,6 +297,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LongestSubstringWithoutRepeatingCharacters.java" />
               <option name="titleSlug" value="longest-substring-without-repeating-characters" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LongestWellPerformingInterval.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/LongestWellPerformingInterval.md" />
+              <option name="frontendQuestionId" value="leetcode.com1124" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LongestWellPerformingInterval.java" />
+              <option name="titleSlug" value="longest-well-performing-interval" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -682,6 +726,28 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SquaresOfASortedArray.java" />
               <option name="titleSlug" value="squares-of-a-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SubarraySumEqualsK.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SubarraySumEqualsK.md" />
+              <option name="frontendQuestionId" value="leetcode.com560" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SubarraySumEqualsK.java" />
+              <option name="titleSlug" value="subarray-sum-equals-k" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SubarraySumsDivisibleByK.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SubarraySumsDivisibleByK.md" />
+              <option name="frontendQuestionId" value="leetcode.com974" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SubarraySumsDivisibleByK.java" />
+              <option name="titleSlug" value="subarray-sums-divisible-by-k" />
             </LeetcodeEditor>
           </value>
         </entry>
