@@ -113,6 +113,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ContainsDuplicateIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/ContainsDuplicateIi.md" />
+              <option name="frontendQuestionId" value="leetcode.com219" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ContainsDuplicateIi.java" />
+              <option name="titleSlug" value="contains-duplicate-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ContainsDuplicateIii.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/ContainsDuplicateIii.md" />
+              <option name="frontendQuestionId" value="leetcode.com220" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ContainsDuplicateIii.java" />
+              <option name="titleSlug" value="contains-duplicate-iii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ContiguousArray.java">
           <value>
             <LeetcodeEditor>
@@ -289,6 +311,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LongestRepeatingCharacterReplacement.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/LongestRepeatingCharacterReplacement.md" />
+              <option name="frontendQuestionId" value="leetcode.com424" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LongestRepeatingCharacterReplacement.java" />
+              <option name="titleSlug" value="longest-repeating-character-replacement" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LongestSubstringWithoutRepeatingCharacters.java">
           <value>
             <LeetcodeEditor>
@@ -319,6 +352,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MatrixBlockSum.java" />
               <option name="titleSlug" value="matrix-block-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MaxConsecutiveOnesIii.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/MaxConsecutiveOnesIii.md" />
+              <option name="frontendQuestionId" value="leetcode.com1004" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MaxConsecutiveOnesIii.java" />
+              <option name="titleSlug" value="max-consecutive-ones-iii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -385,6 +429,28 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MinimumDepthOfBinaryTree.java" />
               <option name="titleSlug" value="minimum-depth-of-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MinimumOperationsToReduceXToZero.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/MinimumOperationsToReduceXToZero.md" />
+              <option name="frontendQuestionId" value="leetcode.com1658" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MinimumOperationsToReduceXToZero.java" />
+              <option name="titleSlug" value="minimum-operations-to-reduce-x-to-zero" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MinimumSizeSubarraySum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/MinimumSizeSubarraySum.md" />
+              <option name="frontendQuestionId" value="leetcode.com209" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MinimumSizeSubarraySum.java" />
+              <option name="titleSlug" value="minimum-size-subarray-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -726,6 +792,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SquaresOfASortedArray.java" />
               <option name="titleSlug" value="squares-of-a-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SubarrayProductLessThanK.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SubarrayProductLessThanK.md" />
+              <option name="frontendQuestionId" value="leetcode.com713" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SubarrayProductLessThanK.java" />
+              <option name="titleSlug" value="subarray-product-less-than-k" />
             </LeetcodeEditor>
           </value>
         </entry>
