@@ -1,7 +1,4 @@
-package leetcode.editor.en;
-
-import java.util.*;
-import leetcode.editor.common.*;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.ArrayStepByStep0725.SlidingWindowExercises;
 
 public class SubarrayProductLessThanK {
 
