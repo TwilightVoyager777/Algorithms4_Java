@@ -1,7 +1,4 @@
-package leetcode.editor.en;
-
-import java.util.*;
-import leetcode.editor.common.*;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.ArrayStepByStep0725.BinarySearchTemplate;
 
 public class FindFirstAndLastPositionOfElementInSortedArray {
 
@@ -11,7 +8,7 @@ public class FindFirstAndLastPositionOfElementInSortedArray {
 //            return new int[]{left_bound(nums, target), right_bound(nums,target)};
             int left = left_bound(nums, target);
             int right = right_bound(nums, target);
-            
+
             if (left == nums.length || nums[left] != target) {
                 return new int[]{-1, -1};
             }
