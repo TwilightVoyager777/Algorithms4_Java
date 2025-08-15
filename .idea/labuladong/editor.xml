@@ -234,6 +234,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindKClosestElements.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/FindKClosestElements.md" />
+              <option name="frontendQuestionId" value="leetcode.com658" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindKClosestElements.java" />
+              <option name="titleSlug" value="find-k-closest-elements" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindKPairsWithSmallestSums.java">
           <value>
             <LeetcodeEditor>
@@ -242,6 +253,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindKPairsWithSmallestSums.java" />
               <option name="titleSlug" value="find-k-pairs-with-smallest-sums" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindPeakElement.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/FindPeakElement.md" />
+              <option name="frontendQuestionId" value="leetcode.com162" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindPeakElement.java" />
+              <option name="titleSlug" value="find-peak-element" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -286,6 +308,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/IntersectionOfTwoLinkedLists.java" />
               <option name="titleSlug" value="intersection-of-two-linked-lists" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/IsSubsequence.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/IsSubsequence.md" />
+              <option name="frontendQuestionId" value="leetcode.com392" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/IsSubsequence.java" />
+              <option name="titleSlug" value="is-subsequence" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -542,6 +575,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/NumberOfMatchingSubsequences.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/NumberOfMatchingSubsequences.md" />
+              <option name="frontendQuestionId" value="leetcode.com792" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/NumberOfMatchingSubsequences.java" />
+              <option name="titleSlug" value="number-of-matching-subsequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/OpenTheLock.java">
           <value>
             <LeetcodeEditor>
@@ -572,6 +616,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/PartitionList.java" />
               <option name="titleSlug" value="partition-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/PeakIndexInAMountainArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/PeakIndexInAMountainArray.md" />
+              <option name="frontendQuestionId" value="leetcode.com852" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/PeakIndexInAMountainArray.java" />
+              <option name="titleSlug" value="peak-index-in-a-mountain-array" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -781,6 +836,61 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/RotateImage.java" />
               <option name="titleSlug" value="rotate-image" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchA2dMatrix.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SearchA2dMatrix.md" />
+              <option name="frontendQuestionId" value="leetcode.com74" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchA2dMatrix.java" />
+              <option name="titleSlug" value="search-a-2d-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchA2dMatrixIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SearchA2dMatrixIi.md" />
+              <option name="frontendQuestionId" value="leetcode.com240" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchA2dMatrixIi.java" />
+              <option name="titleSlug" value="search-a-2d-matrix-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchInRotatedSortedArray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SearchInRotatedSortedArray.md" />
+              <option name="frontendQuestionId" value="leetcode.com33" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchInRotatedSortedArray.java" />
+              <option name="titleSlug" value="search-in-rotated-sorted-array" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchInRotatedSortedArrayIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SearchInRotatedSortedArrayIi.md" />
+              <option name="frontendQuestionId" value="leetcode.com81" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchInRotatedSortedArrayIi.java" />
+              <option name="titleSlug" value="search-in-rotated-sorted-array-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchInsertPosition.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SearchInsertPosition.md" />
+              <option name="frontendQuestionId" value="leetcode.com35" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SearchInsertPosition.java" />
+              <option name="titleSlug" value="search-insert-position" />
             </LeetcodeEditor>
           </value>
         </entry>
