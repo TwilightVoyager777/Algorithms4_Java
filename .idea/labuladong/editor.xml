@@ -201,6 +201,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DesignCircularDeque.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/DesignCircularDeque.md" />
+              <option name="frontendQuestionId" value="leetcode.com641" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DesignCircularDeque.java" />
+              <option name="titleSlug" value="design-circular-deque" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DesignCircularQueue.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/DesignCircularQueue.md" />
+              <option name="frontendQuestionId" value="leetcode.com622" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DesignCircularQueue.java" />
+              <option name="titleSlug" value="design-circular-queue" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DesignFrontMiddleBackQueue.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/DesignFrontMiddleBackQueue.md" />
+              <option name="frontendQuestionId" value="leetcode.com1670" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DesignFrontMiddleBackQueue.java" />
+              <option name="titleSlug" value="design-front-middle-back-queue" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DiameterOfBinaryTree.java">
           <value>
             <LeetcodeEditor>
@@ -682,6 +715,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/NumberOfMatchingSubsequences.java" />
               <option name="titleSlug" value="number-of-matching-subsequences" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/NumberOfRecentCalls.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/NumberOfRecentCalls.md" />
+              <option name="frontendQuestionId" value="leetcode.com933" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/NumberOfRecentCalls.java" />
+              <option name="titleSlug" value="number-of-recent-calls" />
             </LeetcodeEditor>
           </value>
         </entry>
