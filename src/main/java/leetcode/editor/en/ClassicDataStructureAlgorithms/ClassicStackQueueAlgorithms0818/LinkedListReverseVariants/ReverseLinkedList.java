@@ -1,8 +1,8 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep0721.LinkedListReverseVariants;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.ClassicStackQueueAlgorithms0818.LinkedListReverseVariants;
 
 import leetcode.editor.common.*;
 
-public class ReverseNodesInKGroup {
+public class ReverseLinkedList {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     /**
@@ -16,34 +16,31 @@ public class ReverseNodesInKGroup {
      * }
      */
     class Solution {
-        public ListNode reverseKGroup(ListNode head, int k) {
-            if (head == null) return null;
-            ListNode a,b;
-            a = b = head;
-            for (int i = 0; i < k; i++) {
-                if (b == null) return head;
-                b = b.next;
+        public ListNode reverseList(ListNode head) {
+            if (head == null || head.next == null) {
+                return head;
             }
-            ListNode newHead = reverseN(a, k);
-            a.next = reverseKGroup(b, k);
-            return newHead;
+            ListNode last = reverseList(head.next);
+            head.next.next= head;
+            head.next = null;
+            return last;
         }
-        ListNode reverseN(ListNode head, int n) {
+    }
+    class Solution1 {
+        public ListNode reverseList(ListNode head) {
             if (head == null || head.next == null) {
                 return head;
             }
             ListNode pre, cur, nxt;
             pre = null; cur = head; nxt = head.next;
-            while (n > 0) {
+            while (cur != null) {
                 cur.next = pre;
                 pre = cur;
                 cur = nxt;
                 if (nxt != null) {
                     nxt = nxt.next;
                 }
-                n--;
             }
-            head.next = cur;
             return pre;
         }
     }
@@ -51,7 +48,7 @@ public class ReverseNodesInKGroup {
 
     
     public static void main(String[] args) {
-        Solution solution = new ReverseNodesInKGroup().new Solution();
+        Solution solution = new ReverseLinkedList().new Solution();
         // put your test code here
         
     }

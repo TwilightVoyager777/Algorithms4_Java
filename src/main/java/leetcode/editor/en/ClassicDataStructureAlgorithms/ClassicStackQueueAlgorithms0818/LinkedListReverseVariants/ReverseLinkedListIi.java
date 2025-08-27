@@ -1,4 +1,4 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.LinkedListStepByStep0721.LinkedListReverseVariants;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.ClassicStackQueueAlgorithms0818.LinkedListReverseVariants;
 
 import leetcode.editor.common.*;
 
