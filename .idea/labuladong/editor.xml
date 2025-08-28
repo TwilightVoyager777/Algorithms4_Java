@@ -135,6 +135,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ConstrainedSubsequenceSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/ConstrainedSubsequenceSum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1425" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ConstrainedSubsequenceSum.java" />
+              <option name="titleSlug" value="constrained-subsequence-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ContainsDuplicate.java">
           <value>
             <LeetcodeEditor>
@@ -432,6 +443,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/JumpGameVi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/JumpGameVi.md" />
+              <option name="frontendQuestionId" value="leetcode.com1696" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/JumpGameVi.java" />
+              <option name="titleSlug" value="jump-game-vi" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/KokoEatingBananas.java">
           <value>
             <LeetcodeEditor>
@@ -484,6 +506,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LongestCommonPrefix.java" />
               <option name="titleSlug" value="longest-common-prefix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.md" />
+              <option name="frontendQuestionId" value="leetcode.com1438" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LongestContinuousSubarrayWithAbsoluteDiffLessThanOrEqualToLimit.java" />
+              <option name="titleSlug" value="longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -583,6 +616,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MaximumFrequencyStack.java" />
               <option name="titleSlug" value="maximum-frequency-stack" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MaximumSumCircularSubarray.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/MaximumSumCircularSubarray.md" />
+              <option name="frontendQuestionId" value="leetcode.com918" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MaximumSumCircularSubarray.java" />
+              <option name="titleSlug" value="maximum-sum-circular-subarray" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1100,6 +1144,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/Shift2dGrid.java" />
               <option name="titleSlug" value="shift-2d-grid" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ShortestSubarrayWithSumAtLeastK.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/ShortestSubarrayWithSumAtLeastK.md" />
+              <option name="frontendQuestionId" value="leetcode.com862" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ShortestSubarrayWithSumAtLeastK.java" />
+              <option name="titleSlug" value="shortest-subarray-with-sum-at-least-k" />
             </LeetcodeEditor>
           </value>
         </entry>
