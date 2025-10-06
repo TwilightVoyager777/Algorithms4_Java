@@ -3,17 +3,6 @@
   <component name="LeetcodeEditorlabuladong">
     <option name="projectConfig">
       <map>
-        <entry key="/var/folders/y9/r7jt_jxd6yqg_lsqls2qlh8w0000gn/T/leetcode/editor/en/[1]Two Sum.java">
-          <value>
-            <LeetcodeEditor>
-              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/TwoSum.md" />
-              <option name="frontendQuestionId" value="leetcode.com1" />
-              <option name="host" value="leetcode.com" />
-              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/TwoSum.java" />
-              <option name="titleSlug" value="two-sum" />
-            </LeetcodeEditor>
-          </value>
-        </entry>
         <entry key="$PROJECT_DIR$/lc-plugin-template/java-template/src/main/java/leetcode/editor/en/TwoSum.java">
           <value>
             <LeetcodeEditor>
@@ -91,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreePaths.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/BinaryTreePaths.md" />
+              <option name="frontendQuestionId" value="leetcode.com257" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreePaths.java" />
+              <option name="titleSlug" value="binary-tree-paths" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreePreorderTraversal.java">
           <value>
             <LeetcodeEditor>
@@ -99,6 +99,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreePreorderTraversal.java" />
               <option name="titleSlug" value="binary-tree-preorder-traversal" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreeRightSideView.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/BinaryTreeRightSideView.md" />
+              <option name="frontendQuestionId" value="leetcode.com199" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreeRightSideView.java" />
+              <option name="titleSlug" value="binary-tree-right-side-view" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1081,6 +1092,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/PseudoPalindromicPathsInABinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/PseudoPalindromicPathsInABinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com1457" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/PseudoPalindromicPathsInABinaryTree.java" />
+              <option name="titleSlug" value="pseudo-palindromic-paths-in-a-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/RandomPickWithWeight.java">
           <value>
             <LeetcodeEditor>
@@ -1389,6 +1411,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SmallestStringStartingFromLeaf.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SmallestStringStartingFromLeaf.md" />
+              <option name="frontendQuestionId" value="leetcode.com988" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SmallestStringStartingFromLeaf.java" />
+              <option name="titleSlug" value="smallest-string-starting-from-leaf" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SortColors.java">
           <value>
             <LeetcodeEditor>
@@ -1510,6 +1543,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SumOfRootToLeafBinaryNumbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SumOfRootToLeafBinaryNumbers.md" />
+              <option name="frontendQuestionId" value="leetcode.com1022" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SumOfRootToLeafBinaryNumbers.java" />
+              <option name="titleSlug" value="sum-of-root-to-leaf-binary-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SumRootToLeafNumbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SumRootToLeafNumbers.md" />
+              <option name="frontendQuestionId" value="leetcode.com129" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SumRootToLeafNumbers.java" />
+              <option name="titleSlug" value="sum-root-to-leaf-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ThreeSum.java">
           <value>
             <LeetcodeEditor>
@@ -1617,6 +1672,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ValidateBinarySearchTree.java" />
               <option name="titleSlug" value="validate-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/y9/r7jt_jxd6yqg_lsqls2qlh8w0000gn/T/leetcode/editor/en/[1]Two Sum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/TwoSum.md" />
+              <option name="frontendQuestionId" value="leetcode.com1" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/TwoSum.java" />
+              <option name="titleSlug" value="two-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
