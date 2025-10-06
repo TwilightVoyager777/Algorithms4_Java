@@ -1,8 +1,8 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.BSTProperties0929;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.BinaryTreeStepByStep0901.BSTProperties;
 
 import leetcode.editor.common.*;
 
-public class BinarySearchTreeToGreaterSumTree {
+public class KthSmallestElementInABst {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     /**
@@ -21,26 +21,30 @@ public class BinarySearchTreeToGreaterSumTree {
      * }
      */
     class Solution {
-        public TreeNode bstToGst(TreeNode root) {
-            traverse(root);
-            return root;
+        public int kthSmallest(TreeNode root, int k) {
+            traverse(root, k);
+            return res;
         }
-
-        int sum = 0;
-        void traverse(TreeNode root) {
-            if (root == null) return;
-            traverse(root.right);
-            sum = sum + root.val;
-            root.val = sum;
-            traverse(root.left);
+        int res = 0;
+        int rank = 0;
+        void traverse(TreeNode root, int k ) {
+            if (root == null) {
+                return;
+            }
+            traverse(root.left, k);
+            rank++;
+            if (k == rank) {
+                res = root.val;
+                return;
+            }
+            traverse(root.right, k);
         }
-
     }
     //leetcode submit region end(Prohibit modification and deletion)
 
     
     public static void main(String[] args) {
-        Solution solution = new BinarySearchTreeToGreaterSumTree().new Solution();
+        Solution solution = new KthSmallestElementInABst().new Solution();
         // put your test code here
         
     }

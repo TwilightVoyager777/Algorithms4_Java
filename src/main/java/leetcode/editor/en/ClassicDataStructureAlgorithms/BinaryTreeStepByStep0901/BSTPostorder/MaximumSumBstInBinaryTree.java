@@ -1,4 +1,4 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.BSTPostorder1003;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.BinaryTreeStepByStep0901.BSTPostorder;
 
 import leetcode.editor.common.*;
 

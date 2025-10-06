@@ -1,8 +1,8 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.BSTBasics0930;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.BinaryTreeStepByStep0901.BSTProperties;
 
 import leetcode.editor.common.*;
 
-public class ValidateBinarySearchTree {
+public class BinarySearchTreeToGreaterSumTree {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     /**
@@ -21,22 +21,26 @@ public class ValidateBinarySearchTree {
      * }
      */
     class Solution {
-        public boolean isValidBST(TreeNode root) {
-            return isValidBST(root, null, null);
+        public TreeNode bstToGst(TreeNode root) {
+            traverse(root);
+            return root;
         }
 
-        boolean isValidBST(TreeNode root, TreeNode min, TreeNode max) {
-            if (root == null) return true;
-            if (min != null && root.val <= min.val) return false;
-            if (max != null && root.val >= max.val) return false;
-            return isValidBST(root.left, min, root) && isValidBST(root.right, root, max);
+        int sum = 0;
+        void traverse(TreeNode root) {
+            if (root == null) return;
+            traverse(root.right);
+            sum = sum + root.val;
+            root.val = sum;
+            traverse(root.left);
         }
+
     }
     //leetcode submit region end(Prohibit modification and deletion)
 
     
     public static void main(String[] args) {
-        Solution solution = new ValidateBinarySearchTree().new Solution();
+        Solution solution = new BinarySearchTreeToGreaterSumTree().new Solution();
         // put your test code here
         
     }

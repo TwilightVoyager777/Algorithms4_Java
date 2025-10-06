@@ -1,4 +1,4 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.BSTConstruction1001;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.BinaryTreeStepByStep0901.BSTConstruction;
 
 import java.util.*;
 import leetcode.editor.common.*;

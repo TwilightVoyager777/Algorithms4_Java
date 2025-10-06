@@ -1,4 +1,4 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.BinaryTreeSerialization0924;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.BinaryTreeStepByStep0901.BinaryTreeSerialization;
 
 import java.util.*;
 import leetcode.editor.common.*;

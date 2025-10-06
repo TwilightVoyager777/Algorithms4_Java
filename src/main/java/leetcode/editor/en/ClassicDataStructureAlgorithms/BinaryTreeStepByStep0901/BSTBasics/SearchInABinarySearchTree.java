@@ -1,8 +1,8 @@
-package leetcode.editor.en.ClassicDataStructureAlgorithms.BSTProperties0929;
+package leetcode.editor.en.ClassicDataStructureAlgorithms.BinaryTreeStepByStep0901.BSTBasics;
 
 import leetcode.editor.common.*;
 
-public class KthSmallestElementInABst {
+public class SearchInABinarySearchTree {
 
     //leetcode submit region begin(Prohibit modification and deletion)
     /**
@@ -21,30 +21,22 @@ public class KthSmallestElementInABst {
      * }
      */
     class Solution {
-        public int kthSmallest(TreeNode root, int k) {
-            traverse(root, k);
-            return res;
-        }
-        int res = 0;
-        int rank = 0;
-        void traverse(TreeNode root, int k ) {
-            if (root == null) {
-                return;
+        public TreeNode searchBST(TreeNode root, int val) {
+            if (root == null) return null;
+            if (root.val > val) {
+                return searchBST(root.left, val);
             }
-            traverse(root.left, k);
-            rank++;
-            if (k == rank) {
-                res = root.val;
-                return;
+            if (root.val < val) {
+                return searchBST(root.right, val);
             }
-            traverse(root.right, k);
+            return root;
         }
     }
     //leetcode submit region end(Prohibit modification and deletion)
 
     
     public static void main(String[] args) {
-        Solution solution = new KthSmallestElementInABst().new Solution();
+        Solution solution = new SearchInABinarySearchTree().new Solution();
         // put your test code here
         
     }
