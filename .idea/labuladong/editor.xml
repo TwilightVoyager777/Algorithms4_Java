@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/AddOneRowToTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/AddOneRowToTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com623" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/AddOneRowToTree.java" />
+              <option name="titleSlug" value="add-one-row-to-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/AddTwoNumbers.java">
           <value>
             <LeetcodeEditor>
@@ -300,6 +311,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/CountGoodNodesInBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/CountGoodNodesInBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com1448" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/CountGoodNodesInBinaryTree.java" />
+              <option name="titleSlug" value="count-good-nodes-in-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/CousinsInBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/CousinsInBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com993" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/CousinsInBinaryTree.java" />
+              <option name="titleSlug" value="cousins-in-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DailyTemperatures.java">
           <value>
             <LeetcodeEditor>
@@ -484,6 +517,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FlattenBinaryTreeToLinkedList.java" />
               <option name="titleSlug" value="flatten-binary-tree-to-linked-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FlipBinaryTreeToMatchPreorderTraversal.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/FlipBinaryTreeToMatchPreorderTraversal.md" />
+              <option name="frontendQuestionId" value="leetcode.com971" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FlipBinaryTreeToMatchPreorderTraversal.java" />
+              <option name="titleSlug" value="flip-binary-tree-to-match-preorder-traversal" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1543,6 +1587,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SumOfLeftLeaves.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SumOfLeftLeaves.md" />
+              <option name="frontendQuestionId" value="leetcode.com404" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SumOfLeftLeaves.java" />
+              <option name="titleSlug" value="sum-of-left-leaves" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SumOfNodesWithEvenValuedGrandparent.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SumOfNodesWithEvenValuedGrandparent.md" />
+              <option name="frontendQuestionId" value="leetcode.com1315" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SumOfNodesWithEvenValuedGrandparent.java" />
+              <option name="titleSlug" value="sum-of-nodes-with-even-valued-grandparent" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SumOfRootToLeafBinaryNumbers.java">
           <value>
             <LeetcodeEditor>
@@ -1672,6 +1738,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ValidateBinarySearchTree.java" />
               <option name="titleSlug" value="validate-binary-search-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/VerticalOrderTraversalOfABinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/VerticalOrderTraversalOfABinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com987" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/VerticalOrderTraversalOfABinaryTree.java" />
+              <option name="titleSlug" value="vertical-order-traversal-of-a-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
