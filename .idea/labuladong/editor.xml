@@ -80,6 +80,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreeColoringGame.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/BinaryTreeColoringGame.md" />
+              <option name="frontendQuestionId" value="leetcode.com1145" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreeColoringGame.java" />
+              <option name="titleSlug" value="binary-tree-coloring-game" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreeInorderTraversal.java">
           <value>
             <LeetcodeEditor>
@@ -432,6 +443,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindBottomLeftTreeValue.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/FindBottomLeftTreeValue.md" />
+              <option name="frontendQuestionId" value="leetcode.com513" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindBottomLeftTreeValue.java" />
+              <option name="titleSlug" value="find-bottom-left-tree-value" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindDuplicateSubtrees.java">
           <value>
             <LeetcodeEditor>
@@ -440,6 +462,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindDuplicateSubtrees.java" />
               <option name="titleSlug" value="find-duplicate-subtrees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindElementsInAContaminatedBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/FindElementsInAContaminatedBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com1261" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindElementsInAContaminatedBinaryTree.java" />
+              <option name="titleSlug" value="find-elements-in-a-contaminated-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -674,6 +707,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LexicographicalNumbers.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/LexicographicalNumbers.md" />
+              <option name="frontendQuestionId" value="leetcode.com386" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LexicographicalNumbers.java" />
+              <option name="titleSlug" value="lexicographical-numbers" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LinkedListCycleIi.java">
           <value>
             <LeetcodeEditor>
@@ -682,6 +726,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LinkedListCycleIi.java" />
               <option name="titleSlug" value="linked-list-cycle-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LinkedListInBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/LinkedListInBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com1367" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/LinkedListInBinaryTree.java" />
+              <option name="titleSlug" value="linked-list-in-binary-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1056,6 +1111,28 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/PartitionList.java" />
               <option name="titleSlug" value="partition-list" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/PathInZigzagLabelledBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/PathInZigzagLabelledBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com1104" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/PathInZigzagLabelledBinaryTree.java" />
+              <option name="titleSlug" value="path-in-zigzag-labelled-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/PathSumIii.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/PathSumIii.md" />
+              <option name="frontendQuestionId" value="leetcode.com437" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/PathSumIii.java" />
+              <option name="titleSlug" value="path-sum-iii" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1532,6 +1609,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/StepByStepDirectionsFromABinaryTreeNodeToAnother.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/StepByStepDirectionsFromABinaryTreeNodeToAnother.md" />
+              <option name="frontendQuestionId" value="leetcode.com2096" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/StepByStepDirectionsFromABinaryTreeNodeToAnother.java" />
+              <option name="titleSlug" value="step-by-step-directions-from-a-binary-tree-node-to-another" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SubarrayProductLessThanK.java">
           <value>
             <LeetcodeEditor>
@@ -1584,6 +1672,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SubsetsIi.java" />
               <option name="titleSlug" value="subsets-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SubtreeOfAnotherTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/SubtreeOfAnotherTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com572" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/SubtreeOfAnotherTree.java" />
+              <option name="titleSlug" value="subtree-of-another-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
