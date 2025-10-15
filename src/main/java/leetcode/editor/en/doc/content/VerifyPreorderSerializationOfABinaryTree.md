@@ -382,11 +382,13 @@ function deserialize(nodes) {
 </div></div>
 </div></div>
 
-<hr /><details open hint-container details><summary style="font-size: medium"><strong>🎃🎃 算法可视化 🎃🎃</strong></summary><div id="data_verify-preorder-serialization-of-a-binary-tree"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
+<hr /><details open hint-container details><summary style="font-size: medium"><strong>🌈🌈 算法可视化 🌈🌈</strong></summary><div id="data_verify-preorder-serialization-of-a-binary-tree"  category="leetcode" ></div><div class="resizable aspect-ratio-container" style="height: 100%;">
 <div id="iframe_verify-preorder-serialization-of-a-binary-tree"></div></div>
 </details><hr /><br />
 
 </div>
 </details>
 </div>
+
+
 

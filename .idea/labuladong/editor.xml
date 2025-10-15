@@ -58,6 +58,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/AllPossibleFullBinaryTrees.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/AllPossibleFullBinaryTrees.md" />
+              <option name="frontendQuestionId" value="leetcode.com894" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/AllPossibleFullBinaryTrees.java" />
+              <option name="titleSlug" value="all-possible-full-binary-trees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinarySearch.java">
           <value>
             <LeetcodeEditor>
@@ -363,6 +374,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DeleteNodeInABst.java" />
               <option name="titleSlug" value="delete-node-in-a-bst" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DeleteNodesAndReturnForest.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/DeleteNodesAndReturnForest.md" />
+              <option name="frontendQuestionId" value="leetcode.com1110" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/DeleteNodesAndReturnForest.java" />
+              <option name="titleSlug" value="delete-nodes-and-return-forest" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -858,6 +880,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MaximumBinaryTree.java" />
               <option name="titleSlug" value="maximum-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MaximumBinaryTreeIi.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/MaximumBinaryTreeIi.md" />
+              <option name="frontendQuestionId" value="leetcode.com998" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MaximumBinaryTreeIi.java" />
+              <option name="titleSlug" value="maximum-binary-tree-ii" />
             </LeetcodeEditor>
           </value>
         </entry>
