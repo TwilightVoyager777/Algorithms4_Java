@@ -465,6 +465,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com1379" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindACorrespondingNodeOfABinaryTreeInACloneOfThatTree.java" />
+              <option name="titleSlug" value="find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/FindAllAnagramsInAString.java">
           <value>
             <LeetcodeEditor>
@@ -638,6 +649,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/ImplementStackUsingQueues.java" />
               <option name="titleSlug" value="implement-stack-using-queues" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/IncreasingOrderSearchTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/IncreasingOrderSearchTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com897" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/IncreasingOrderSearchTree.java" />
+              <option name="titleSlug" value="increasing-order-search-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -993,6 +1015,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MergeTwoBinaryTrees.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/MergeTwoBinaryTrees.md" />
+              <option name="frontendQuestionId" value="leetcode.com617" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MergeTwoBinaryTrees.java" />
+              <option name="titleSlug" value="merge-two-binary-trees" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MergeTwoSortedLists.java">
           <value>
             <LeetcodeEditor>
@@ -1320,6 +1353,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/RandomPickWithWeight.java" />
               <option name="titleSlug" value="random-pick-with-weight" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/RangeSumOfBst.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/RangeSumOfBst.md" />
+              <option name="frontendQuestionId" value="leetcode.com938" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/RangeSumOfBst.java" />
+              <option name="titleSlug" value="range-sum-of-bst" />
             </LeetcodeEditor>
           </value>
         </entry>
