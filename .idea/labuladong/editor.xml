@@ -69,6 +69,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BalancedBinaryTree.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/BalancedBinaryTree.md" />
+              <option name="frontendQuestionId" value="leetcode.com110" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BalancedBinaryTree.java" />
+              <option name="titleSlug" value="balanced-binary-tree" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinarySearch.java">
           <value>
             <LeetcodeEditor>
@@ -154,6 +165,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreeRightSideView.java" />
               <option name="titleSlug" value="binary-tree-right-side-view" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreeTilt.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/BinaryTreeTilt.md" />
+              <option name="frontendQuestionId" value="leetcode.com563" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/BinaryTreeTilt.java" />
+              <option name="titleSlug" value="binary-tree-tilt" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -1122,6 +1144,17 @@
               <option name="host" value="leetcode.com" />
               <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MinimumWindowSubstring.java" />
               <option name="titleSlug" value="minimum-window-substring" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MostFrequentSubtreeSum.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/doc/content/MostFrequentSubtreeSum.md" />
+              <option name="frontendQuestionId" value="leetcode.com508" />
+              <option name="host" value="leetcode.com" />
+              <option name="path" value="$PROJECT_DIR$/src/main/java/leetcode/editor/en/MostFrequentSubtreeSum.java" />
+              <option name="titleSlug" value="most-frequent-subtree-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
